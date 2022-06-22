@@ -34,8 +34,8 @@ Deep learning
         
 4. 스터디 계획
 
-        Deep learning 기초
-        
-        
-        
+        Deep learning 기초 스터디 시간에 공부
+        백준 알고리즘 문제->단계별로 풀어보기 에서 처음부터 풀기 (Python)
+        어려운 알고리즘 문제로 가면 1일 1문제
+      
     
