@@ -30,13 +30,14 @@ Deep learning
         Deep Learning from Scratch 밑바닥부터 시작하는 딥러닝 (책)
         naver boostcourse (영상, PDF)
         백준 알고리즘
+        yolov5 by 콜웹
         
 4. 스터디 계획
 
         Deep learning 기초 스터디 시간에 공부
         백준 알고리즘 문제->단계별로 풀어보기 에서 처음부터 풀기 (Python)
         어려운 알고리즘 문제로 가면 1일 1문제
-      
+        
     
     
 5. 스터디 목표&현황
