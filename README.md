@@ -30,7 +30,7 @@ Deep learning
         Deep Learning from Scratch 밑바닥부터 시작하는 딥러닝 (책)
         naver boostcourse (영상, PDF)
         백준 알고리즘
-        yolov5 by 콜웹
+        yolov5 by colab
         
 4. 스터디 계획
 
